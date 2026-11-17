@@ -1,4 +1,4 @@
-# Ekran Kaydedici — Android Uygulaması
+ # Ekran Kaydedici — Android Uygulaması
 
 Samsung Galaxy S25+ / One UI 9 / Android için yüksek kaliteli ekran kaydedici.
 
